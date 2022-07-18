@@ -1,7 +1,7 @@
 Olá! Seja bem vindo(a) ao meu perfil! 📝
 
 - 💻 Hoje trabalho como QA Engineer
-- 📚 Desenvolvo com Dart e Flutter
+- 📚 Estudando Dart/Flutter para desenvolvimento cross plataform e Ruby para testes automatizados
 - ⚙️ Trabalho da minha casa (João Pessoa - PB)
 
 <div>
