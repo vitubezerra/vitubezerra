@@ -1,7 +1,8 @@
-Olá! Seja bem vindo(a) ao meu perfil! 📝
+Olá! 
 
-- 💻 Trabalho como QA Engineer e tomando dominio das seguintes tecnologias: 
-Desenvolvimento web(Javascript, HTML, CSS, React.js, Node.js), Dart/Flutter, Ruby, Robot Framework com Python.
+Seja bem vindo(a) ao meu perfil! 📝
+
+- 💻 Trabalho como QA Engineer e tomando dominio das seguintes tecnologias: Ruby e Robot Framework com Python.
 
 <div>
 <a href="https://www.linkedin.com/in/vitubezerra/">
