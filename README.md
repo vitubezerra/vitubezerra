@@ -2,8 +2,6 @@ Olá!
 
 Seja bem vindo(a) ao meu perfil! 📝
 
-- 💻 Trabalho como QA Engineer e tomando dominio das seguintes tecnologias: Ruby e Robot Framework com Python.
-
 <div>
 <a href="https://www.linkedin.com/in/vitubezerra/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitubezerra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)"/>
