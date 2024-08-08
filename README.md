@@ -36,7 +36,4 @@ Seja bem vindo(a) ao meu perfil! 📝
 <a href="">
 <img height="20em" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   
-<a href="">
-<img height="20em" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-  
 </div>
